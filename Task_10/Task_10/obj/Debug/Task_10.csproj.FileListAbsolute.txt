@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\Task_10\Task_10\bin\Debug\Task_10.exe.config
+c:\users\admin\source\repos\Task_10\Task_10\bin\Debug\Task_10.exe
+c:\users\admin\source\repos\Task_10\Task_10\bin\Debug\Task_10.pdb
+c:\users\admin\source\repos\Task_10\Task_10\obj\Debug\Task_10.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Task_10\Task_10\obj\Debug\Task_10.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Task_10\Task_10\obj\Debug\Task_10.exe
+c:\users\admin\source\repos\Task_10\Task_10\obj\Debug\Task_10.pdb
